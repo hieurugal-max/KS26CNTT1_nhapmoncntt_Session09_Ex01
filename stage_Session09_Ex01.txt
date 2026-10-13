@@ -1,0 +1,20 @@
+Phần 1. Phân tích
+1. Hai sai lầm của Nam:
+- Sai lầm 1: Cho rằng Word tốt hơn Markdown vì có công cụ định dạng trực quan. Markdown vẫn hỗ trợ tiêu đề, danh sách, chữ đậm, liên kết và hình ảnh.
+- Sai lầm 2: Cho rằng Word phù hợp hơn để lưu trữ tài liệu trên GitHub. File DOCX là định dạng nhị phân, khó so sánh thay đổi bằng Git Diff và dễ xảy ra xung đột.
+2. Tại sao Markdown an toàn và nhẹ hơn:
+- Markdown là văn bản thuần, dung lượng nhỏ, dễ đọc và chỉnh sửa.
+- Git Diff có thể hiển thị từng dòng thay đổi.
+- Nếu mất một byte, Markdown thường chỉ bị ảnh hưởng một phần nội dung, không nhất thiết hỏng toàn bộ file như trường hợp dữ liệu nhị phân bị hư hại.
+Phần 2. Hoàn thiện
+Truy cập https://stackedit.io/, nhập nội dung sau và xuất thành file .md
+ Giới thiệu dự án
+
+ Mục tiêu
+Dự án được thực hiện bởi nhóm sinh viên PTIT nhằm nâng cao kỹ năng lập trình và làm việc nhóm.
+
+ Nội dung
+- Xây dựng phần mềm.
+- Quản lý mã nguồn bằng GitHub.
+- Sử dụng Markdown để viết tài liệu.
+
